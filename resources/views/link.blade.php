@@ -1,0 +1,1 @@
+<a href="<?php echo route('welcome') ?>">link</a>
